@@ -1,9 +1,5 @@
 # Symbol-Table-Implementation
-This project simulates a symbol table typically used in compilers for managing variables and their scopes. It uses hashing to organize variable entries efficiently and stack operations to control variable visibility through nested scopes. 
-
-# Symbol Table Implementation
-
-This project implements a **symbol table management system** using **hash tables** and a **stack-based scope mechanism** in the C programming language.
+This project simulates a symbol table typically used in compilers for managing variables and their scopes. It uses hashing to organize variable entries efficiently and stack operations to control variable visibility through nested scopes. This project implements a **symbol table management system** using **hash tables** and a **stack-based scope mechanism** in the C programming language.
 It provides functionality to **insert variables**, **begin new scopes**, **end scopes**, and **lookup or print variables** following simple scoping rules.
 
 ---
